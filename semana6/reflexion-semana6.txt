@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada
+porque permite organizar y procesar mejor los datos. 
+El uso de formatos como JSON facilita la comunicación entre diferentes sistemas. 
+Además, ayuda a registrar la información de manera clara y ordenada.
+Esto permite que las entidades puedan analizar los datos con mayor facilidad y responder de manera más eficiente. 
+También contribuye a realizar un seguimiento adecuado de las incidencias reportadas por la comunidad.
+La información estructurada reduce errores y evita confusiones.
+Asimismo, fortalece la transparencia y mejora la toma de decisiones.
+Gracias a estas herramientas, es posible desarrollar servicios más útiles y accesibles para los ciudadanos. 
+Por ello, la recepción organizada de datos es fundamental en las aplicaciones modernas.

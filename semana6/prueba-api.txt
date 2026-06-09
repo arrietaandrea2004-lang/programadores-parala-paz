@@ -1,0 +1,16 @@
+Al enviar una petición POST a la ruta http://localhost:3000/registro con el siguiente JSON:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+El servidor recibe la información enviada mediante req.body y responde con un objeto JSON que contiene el estado de la operación y los datos recibidos. La respuesta obtenida es:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Esto demuestra que la aplicación Express puede recibir y procesar datos enviados por el usuario correctamente.
