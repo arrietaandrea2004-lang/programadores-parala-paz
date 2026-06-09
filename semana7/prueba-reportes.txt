@@ -1,0 +1,18 @@
+Al enviar una petición POST a la ruta http://localhost:3000/reportes con el siguiente JSON:
+
+{
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+
+El servidor registra la información en un array llamado reportes. Posteriormente, al realizar una petición GET a la misma ruta, se obtiene una lista con los reportes almacenados. La respuesta obtenida es:
+
+[
+{
+"id": 1,
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+]
+
+Esto demuestra que la API permite registrar y consultar información correctamente.
